@@ -1,5 +1,3 @@
-# analise_de_dados_COVID
-
 # Documentação do Código - Aplicação de Visualização de Dados COVID-19
 Este é um script Python que utiliza a biblioteca Streamlit para criar uma aplicação web interativa para visualizar dados da COVID-19 no Brasil. A aplicação permite ao usuário escolher um estado e o tipo de informação que deseja visualizar, gerando um gráfico de linha interativo usando a biblioteca Plotly Express. Abaixo está a documentação detalhada do código.
 
