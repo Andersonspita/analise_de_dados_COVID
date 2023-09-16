@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 
-streamlit run; covid.py
+streamlit run covid.py
 
 #LENDO O DATASET
 df = pd.read_csv('cases-brazil-states.csv')
