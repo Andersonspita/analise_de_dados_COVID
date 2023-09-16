@@ -1,1 +1,1 @@
-plotyly==5.8.0
+plotyly==5.17.0
